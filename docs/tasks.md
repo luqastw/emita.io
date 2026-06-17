@@ -1,6 +1,6 @@
 # InvoiceKit MVP — Tasks de Implementação
 
-## Etapa 1: Fundação do Projeto
+## Etapa 1: Fundação do Projeto ✅
 1. Configurar projeto FastAPI com Python 3.11+, Poetry/uv e estrutura de pastas
 2. Configurar Docker Compose com PostgreSQL e Redis
 3. Configurar SQLAlchemy async + Alembic para migrations
@@ -8,7 +8,7 @@
 5. Configurar dependência de banco de dados (async session)
 6. Configurar Pydantic settings para variáveis de ambiente
 
-## Etapa 2: Autenticação (Users/Auth)
+## Etapa 2: Autenticação (Users/Auth) ✅
 7. Implementar registro de usuário com hash de senha (bcrypt/argon2)
 8. Implementar login com geração de JWT access token + refresh token
 9. Implementar endpoint de refresh token
